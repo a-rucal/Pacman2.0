@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="5" height="5" tilewidth="48" tileheight="48" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="SpritesDef" tilewidth="48" tileheight="48" tilecount="640" columns="32">
+  <image source="../images/SpritesDef.png" width="1536" height="960"/>
+ </tileset>
+ <layer id="1" name="Capa de Patrones 1" width="5" height="5">
+ <properties>
+   <property name="collision" value="true"/>
+  </properties>
+  <data>
+	<tile gid="146"/>
+	<tile gid="155"/>
+	<tile gid="155"/>
+	<tile gid="155"/>
+	<tile gid="145"/>
+	<tile gid="148"/>
+	<tile gid="0"/>
+	<tile gid="0"/>
+	<tile gid="0"/>
+	<tile gid="147"/>
+	<tile gid="148"/>
+	<tile gid="0"/>
+	<tile gid="0"/>
+	<tile gid="0"/>
+	<tile gid="147"/>
+	<tile gid="148"/>
+	<tile gid="0"/>
+	<tile gid="0"/>
+	<tile gid="0"/>
+	<tile gid="147"/>
+	<tile gid="150"/>
+	<tile gid="157"/>
+	<tile gid="157"/>
+	<tile gid="157"/>
+	<tile gid="149"/>
+</data>
+ </layer>
+</map>

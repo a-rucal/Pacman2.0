@@ -1,0 +1,26 @@
+@font-face { 
+	font-family: 'Quadrit'; 
+	src: url('../css/Quadrit.ttf'); 
+}
+
+* { 
+	font-family: Quadrit, sans-serif;
+	font-size: 20px;
+	color: #fff;
+    background-color:black;
+}
+
+canvas { 
+    background-color:black; 
+    margin-top: 10%; 
+}
+
+/*
+html  { 
+	background-color: #000;
+}*/
+
+
+
+
+
