@@ -30,7 +30,7 @@ function loadMainTitle(Q) {
 
         Q.state.set('play', false);
         //Configuración inicio juego
-        Q.state.reset({ score: 0, pointsLeft: 34 });
+        Q.state.reset({ score: 0, pointsLeft: 35 });
         /*Q.audio.stop('music_level_complete.mp3');
         Q.audio.stop('music_die.mp3');
         Q.audio.play('music_main.mp3', { loop: true });*/

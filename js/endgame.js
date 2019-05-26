@@ -16,7 +16,7 @@ function loadEndGame(Q) {
         }));
 
         button.on('click', function() {
-            Q.state.reset({ score: 0, pointsLeft: 34 });
+            Q.state.reset({ score: 0, pointsLeft: 35 });
             Q.clearStages();
             Q.stageScene('level1');
         });
